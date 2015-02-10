@@ -1,0 +1,26 @@
+{
+  "name": "pl_practica_1",
+  "version": "0.0.1",
+  "description": "ULL ESIT Grado de Informática. 3º. PL. Lab \"Temperature Converter\"",
+  "main": "temperature.js",
+  "scripts": {
+    "test": "open tests/index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "latest",
+    "chai": "~1.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KevinRM/pl_practica_1.git"
+  },
+  "keywords": [
+    "regexp"
+  ],
+  "author": "Kevin Miguel Rivero Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinRM/pl_practica_1/issues"
+  }
+}
