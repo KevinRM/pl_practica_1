@@ -9,7 +9,10 @@
   "dependencies": {},
   "devDependencies": {
     "mocha": "latest",
-    "chai": "~1.10.0"
+    "chai": "~1.10.0",
+    "gulp": "~3.8.11",
+    "gulp-concat": "~2.4.3",
+    "gulp-util": "~3.0.3"
   },
   "repository": {
     "type": "git",
