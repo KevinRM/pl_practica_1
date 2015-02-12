@@ -22,6 +22,6 @@ function calculate() {
     converted.innerHTML = result;
   }
   else {
-    converted.innerHTML = "ERROR! Try something like '-4.2C' instead";
+    converted.innerHTML = "ERROR! Comprueba que esta bien introducido. Ejemplo: 32c, 32f, 50C, 50F";
   }
 }
