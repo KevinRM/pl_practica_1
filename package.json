@@ -4,7 +4,7 @@
   "description": "ULL ESIT Grado de Informática. 3º. PL. Lab \"Temperature Converter\"",
   "main": "temperature.js",
   "scripts": {
-    "test": "./node_modules/karma/bin/karma start --single-run --browsers chrome'"
+    "test": "./node_modules/karma/bin/karma start --single-run"
   },
   "dependencies": {},
   "devDependencies": {
